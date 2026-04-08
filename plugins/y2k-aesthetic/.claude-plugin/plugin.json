@@ -1,7 +1,22 @@
 {
   "name": "y2k-aesthetic",
   "version": "1.0.0",
-  "description": "Build frontends with the Y2K skeuomorphic / AmpCore aesthetic: glossy metallic surfaces, Winamp-era skins, blobject shapes, and neon-on-black palettes.",
-  "author": "igorlourenco",
-  "skills": ["skills/y2k-aesthetic"]
+  "description": "Build frontends with the Y2K skeuomorphic / AmpCore aesthetic: glossy metallic surfaces, Winamp-era skins, blobject shapes, NURBS-like radials, and neon-on-black palettes.",
+  "author": {
+    "name": "Igor Lourenço"
+  },
+  "category": "design",
+  "skills": ["skills/y2k-aesthetic"],
+  "keywords": [
+    "y2k",
+    "aesthetic",
+    "skeuomorphic",
+    "ampcore",
+    "winamp",
+    "media player",
+    "blobject",
+    "neon",
+    "black",
+    "palettes"
+  ]
 }
