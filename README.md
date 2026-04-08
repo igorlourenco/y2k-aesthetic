@@ -1,16 +1,16 @@
 # y2k-aesthetic
 
-A Claude Code plugin for building frontends with the **Y2K skeuomorphic / AmpCore aesthetic** — glossy metallic surfaces, Winamp-era media player skins, blobject organic shapes, and neon-on-black palettes.
+A Claude Code plugin for building frontends with the **Y2K skeuomorphic / AmpCore aesthetic**: glossy metallic surfaces, Winamp-era media player skins, blobject organic shapes, and neon-on-black palettes.
 
 Based on the [AmpCore design study](https://github.com/igorlourenco/y2k-aesthetic) which codifies the design language of early-2000s consumer electronics, media player skins, and concept vehicle dashboards into actionable CSS patterns.
 
 ## What it does
 
-- **Design system** — full color tokens, surface recipes (chrome, gel, translucent pod, LCD), and typography for the Y2K era
-- **Shape language** — radial-first design rules from the AmpCore study: holdable forms, NURBS-like curves, blobject vs non-blobject modes
-- **Anti-patterns** — knows what ISN'T Y2K (flat design, strict trapezoids, broken radials, listless organic detailing)
-- **Component patterns** — Winamp-style players, skin containers, dashboard widgets, jewel-like accessories
-- **CSS-only** — all surfaces built with gradients, box-shadows, and clip-paths — no image dependencies
+- **Design system**: full color tokens, surface recipes (chrome, gel, translucent pod, LCD), and typography for the Y2K era
+- **Shape language**: radial-first design rules from the AmpCore study (holdable forms, NURBS-like curves, blobject vs non-blobject modes)
+- **Anti-patterns**: knows what ISN'T Y2K (flat design, strict trapezoids, broken radials, listless organic detailing)
+- **Component patterns**: Winamp-style players, skin containers, dashboard widgets, jewel-like accessories
+- **CSS-only**: all surfaces built with gradients, box-shadows, and clip-paths, with no image dependencies
 
 ## Install
 
@@ -64,11 +64,11 @@ The skill triggers automatically. Just describe what you want:
 
 ## Design Principles (from AmpCore study)
 
-1. **It must feel "holdable"** — every UI should feel like a real injection-molded product
-2. **Surfaces first, accessories second** — design the shell, then add controls
-3. **Radials in abstract** — NURBS-like curves define the shape language
-4. **Sharp angles are discouraged** — organic, rounded edges everywhere
-5. **Blobject is key, but not the rule** — freeform shells or rounded rectangles, both work
+1. **It must feel "holdable"**: every UI should feel like a real injection-molded product
+2. **Surfaces first, accessories second**: design the shell, then add controls
+3. **Radials in abstract**: NURBS-like curves define the shape language
+4. **Sharp angles are discouraged**: organic, rounded edges everywhere
+5. **Blobject is key, but not the rule**: freeform shells or rounded rectangles, both work
 
 ## Credits
 
