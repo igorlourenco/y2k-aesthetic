@@ -2,7 +2,7 @@
 
 A Claude Code plugin for building frontends with the **Y2K skeuomorphic / AmpCore aesthetic**: glossy metallic surfaces, Winamp-era media player skins, blobject organic shapes, and neon-on-black palettes.
 
-Based on the [AmpCore design study](https://github.com/igorlourenco/y2k-aesthetic) which codifies the design language of early-2000s consumer electronics, media player skins, and concept vehicle dashboards into actionable CSS patterns.
+It codifies the design language of early-2000s consumer electronics, media player skins, and concept vehicle dashboards into actionable CSS patterns.
 
 ## What it does
 
@@ -72,7 +72,7 @@ The skill triggers automatically. Just describe what you want:
 
 ## Credits
 
-Design principles derived from the AmpCore aesthetic study by [Appleheck, the toymaker](https://twitter.com/appleheck).
+Design principles derived from the [AmpCore design study](https://x.com/ApplefatGov/status/2041326711892050052) by [@ApplefatGov](https://x.com/ApplefatGov).
 
 ## License
 
